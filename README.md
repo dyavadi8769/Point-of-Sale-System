@@ -215,3 +215,11 @@ This project was developed as part of a university-level database systems course
 Due to academic integrity policies, the source code and raw data files are not publicly shared. However, this repository documents the design decisions, architecture, and technologies used across each milestone. It serves as a reflection of the practical experience gained in managing complex database systems using both SQL and NoSQL paradigms.
 
 📫 **Want to learn more or collaborate on database-heavy projects?** Feel free to reach out.
+
+# Author:
+
+```bash
+Author: Sai Kiran Reddy Dyavadi
+Role  : Data Scientist
+Email : dyavadi324@gmail.com
+```
